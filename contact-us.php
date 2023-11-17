@@ -51,10 +51,10 @@
         <div class="contact-us-section contact-us-section2">
             <h1>Address & Info</h1>
             <h3>Phone Numbers</h3>
-            <p><a href="tel:01011391148">+2 010 11 39 11 48</a><br>
-                <a href="tel:01011391148">+2 010 11 39 11 48</a></p>
+            <p><a href="tel:01011391148">+91 78375720975</a><br>
+                <a href="tel:01011391148">+91 8356721098</a></p>
             <h3>Address</h3>
-            <p>El Sherouk City , Suez Desert Road , Cairo 11837 - P.O. Box 43</p>
+            <p>GT Cinemas , RR Nagar , Bangalore 575097 - P.O. Box 43</p>
             <h3>E-mail</h3>
             <p><a href="mailto:cinemareservation@bue.edu.eg">cinemareservation@bue.edu.eg</a></p>
         </div>
