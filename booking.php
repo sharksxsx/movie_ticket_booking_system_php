@@ -85,11 +85,11 @@ $row = mysqli_fetch_array($movieImageById);
 
                     <select name="date" required>
                         <option value="" disabled selected>DATE</option>
-                        <option value="12-3">March 12,2019</option>
-                        <option value="13-3">March 13,2019</option>
-                        <option value="14-3">March 14,2019</option>
-                        <option value="15-3">March 15,2019</option>
-                        <option value="16-3">March 16,2019</option>
+                        <option value="12-11">November 12,2023</option>
+                        <option value="13-11">November 13,2023</option>
+                        <option value="14-11">November 14,2023</option>
+                        <option value="15-11">November 15,2023</option>
+                        <option value="16-11">November 16,2023</option>
                     </select>
 
                     <select name="hour" required>
