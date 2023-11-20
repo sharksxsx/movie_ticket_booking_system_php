@@ -47,9 +47,9 @@
                         <tbody>
                             <?php
                             include "config.php";
-                            $host = "localhost"; /* Host name */
+                            $host = "127.0.0.1"; /* Host name */
                             $user = "root"; /* User */
-                            $password = ""; /* Password */
+                            $password = "Shreya@17"; /* Password */
                             $dbname = "cinema_db"; /* Database name */
 
                             $select = "SELECT * FROM `feedbacktable`";
@@ -68,7 +68,7 @@
                                     <td><?php echo $lastname; ?></td>
                                     <td><?php echo $email; ?></td>
                                     <td><?php echo $message; ?></td>
-                                    <!--<td><?php echo  "<a href='Deletecontact.php?id=" . $row['msgID'] . "'>delete</a>"; ?></td>-->
+                                    <td><?php echo  "<a href='Deletecontact.php?id=" . $row['msgID'] . "'>delete</a>"; ?></td>
                                     <td><button value="Book Now!" type="submit" onclick="" type="button" class="btn btn-danger"><?php echo  "<a href='Deletecontact.php?id=" . $row['msgID'] . "'>delete</a>"; ?></button></td>
                                 </tr>
 

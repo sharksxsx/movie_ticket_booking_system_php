@@ -71,11 +71,11 @@ if (isset($_POST['but_logout'])) {
 
                             <select name="date" required>
                                 <option value="" disabled selected>DATE</option>
-                                <option value="12-3">March 12,2019</option>
-                                <option value="13-3">March 13,2019</option>
-                                <option value="14-3">March 14,2019</option>
-                                <option value="15-3">March 15,2019</option>
-                                <option value="16-3">March 16,2019</option>
+                                <option value="16-11">November 16,2023</option>
+                                <option value="17-11">November 17,2023</option>
+                                <option value="18-11">November 18,2023</option>
+                                <option value="19-11">November 19,2023</option>
+                                <option value="20-11">November 20,2023</option>
                             </select>
 
                             <select name="hour" required>
